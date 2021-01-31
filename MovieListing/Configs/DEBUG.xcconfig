@@ -1,0 +1,14 @@
+//
+//  DEBUG.xcconfig
+//  MovieListing
+//
+//  Created by Gökhan KOCA on 26.01.2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+// https://api.themoviedb.org/3/movie/287947?language=en-US&api_key=c0079fc82ed899d28062da1919b804be
+
+BASE_URL = https:\/\/api.themoviedb.org\/3\/
+BASE_IMAGE_URL = https:\/\/image.tmdb.org\/t\/p\/w500\/
+API_KEY = c0079fc82ed899d28062da1919b804be

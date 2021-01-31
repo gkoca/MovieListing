@@ -1,0 +1,93 @@
+{
+  "runtime" : 151,
+  "status" : "Released",
+  "backdrop_path" : "\/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+  "overview" : "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+  "title" : "Wonder Woman 1984",
+  "vote_count" : 3186,
+  "tagline" : "A new era of wonder begins.",
+  "belongs_to_collection" : {
+	"backdrop_path" : "\/n9KlvCOBFDmSyw3BgNrkUkxMFva.jpg",
+	"id" : 468552,
+	"name" : "Wonder Woman Collection",
+	"poster_path" : "\/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg"
+  },
+  "original_title" : "Wonder Woman 1984",
+  "original_language" : "en",
+  "poster_path" : "\/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+  "production_countries" : [
+	{
+	  "name" : "United States of America",
+	  "iso_3166_1" : "US"
+	}
+  ],
+  "revenue" : 131400000,
+  "homepage" : "https:\/\/www.warnerbros.com\/movies\/wonder-woman-1984",
+  "video" : false,
+  "imdb_id" : "tt7126948",
+  "id" : 464052,
+  "release_date" : "2020-12-16",
+  "budget" : 200000000,
+  "popularity" : 2958.7220000000002,
+  "genres" : [
+	{
+	  "id" : 14,
+	  "name" : "Fantasy"
+	},
+	{
+	  "id" : 28,
+	  "name" : "Action"
+	},
+	{
+	  "id" : 12,
+	  "name" : "Adventure"
+	}
+  ],
+  "production_companies" : [
+	{
+	  "logo_path" : "\/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+	  "id" : 9993,
+	  "origin_country" : "US",
+	  "name" : "DC Entertainment"
+	},
+	{
+	  "logo_path" : "\/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+	  "id" : 174,
+	  "origin_country" : "US",
+	  "name" : "Warner Bros. Pictures"
+	},
+	{
+	  "logo_path" : null,
+	  "id" : 114152,
+	  "origin_country" : "US",
+	  "name" : "The Stone Quarry"
+	},
+	{
+	  "logo_path" : "\/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+	  "id" : 128064,
+	  "origin_country" : "US",
+	  "name" : "DC Films"
+	},
+	{
+	  "logo_path" : "\/z7H707qUWigbjHnJDMfj6QITEpb.png",
+	  "id" : 507,
+	  "origin_country" : "US",
+	  "name" : "Atlas Entertainment"
+	},
+	{
+	  "logo_path" : "\/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+	  "id" : 429,
+	  "origin_country" : "US",
+	  "name" : "DC Comics"
+	}
+  ],
+  "adult" : false,
+  "spoken_languages" : [
+	{
+	  "english_name" : "English",
+	  "name" : "English",
+	  "iso_639_1" : "en"
+	}
+  ],
+  "vote_average" : 7.0999999999999996
+}
