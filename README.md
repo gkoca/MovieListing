@@ -8,7 +8,7 @@ You can see the basic scene architechture from following diagram.
 ![diagram](Diagram.png)
 
 ## INFO
-- Used latest version of platform
+- Used Swift 5.3.2
 - Used Xcode 12.4.0 RC as IDE
 - Did not changed deployment target. (stays 14.3)
 - **Did not used any 3rd party framework**
